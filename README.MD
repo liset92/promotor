@@ -14,5 +14,5 @@
 ## Ejecución
 Para ejecutar los tests, utiliza el siguiente comando:
 ```bash
-mvn clean test
+mvn clean verify
 ```
